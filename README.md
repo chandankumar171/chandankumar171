@@ -54,9 +54,9 @@
 
 ### ✨ Featured Projects
 <p align="left">
-  -🔥 <a href="https://github.com/chandankumar171/newjobportal">**Project 1**</a> — Short description of your project  
-  -🔥 <a href="https://github.com/chandankumar171/Weather-Widget">**Project 2**</a> — Another short description  
-  -🔥 <a href="https://github.com/chandankumar171/wanderlust">**Project 3**</a> — Another short description  
+  -🔥 <a href="https://github.com/chandankumar171/newjobportal">**Project 1**</a> — MERN Stack Job Portal  
+  -🔥 <a href="https://github.com/chandankumar171/Weather-Widget">**Project 2**</a> — Weather Widget  
+  -🔥 <a href="https://github.com/chandankumar171/wanderlust">**Project 3**</a> — MERN Stack Wanderlust 
 </p>
 
 ---
