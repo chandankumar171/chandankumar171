@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank">
+  <a href="https://www.linkedin.com/in/chandan-kumar-sahoo-3343a229b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:chandankumarsahoo171@gmail.com" target="_blank">
