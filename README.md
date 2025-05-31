@@ -31,9 +31,7 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,typescript,nodejs,express,mongodb,mysql,html,css,js" alt="Tech Stack" />
-  <img src="https://img.shields.io/badge/ShadCN%20UI-%230059ff?style=for-the-badge&logo=vercel&logoColor=white" alt="ShadCN UI" />
-  <img src="https://img.shields.io/badge/Lucide%20Icons-%23FFD700?style=for-the-badge&logo=lucide&logoColor=black" alt="Lucide Icons" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,html,css,js,postman,c,java,git" alt="Tech Stack" />
 </p>
 
 
