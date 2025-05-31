@@ -54,9 +54,9 @@
 
 ### ✨ Featured Projects
 <p align="left">
-  -🔥 <a href="https://github.com/chandankumar171/[repo1]">**Project 1**</a> — Short description of your project  
-  -🔥 <a href="https://github.com/chandankumar171/[repo2]">**Project 2**</a> — Another short description  
-  -🔥 <a href="https://github.com/chandankumar171/[repo3]">**Project 3**</a> — Another short description  
+  -🔥 <a href="https://github.com/chandankumar171/newjobportal">**Project 1**</a> — Short description of your project  
+  -🔥 <a href="https://github.com/chandankumar171/Weather-Widget">**Project 2**</a> — Another short description  
+  -🔥 <a href="https://github.com/chandankumar171/wanderlust">**Project 3**</a> — Another short description  
 </p>
 
 ---
