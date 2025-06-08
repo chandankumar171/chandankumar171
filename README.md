@@ -24,7 +24,7 @@
 ### 🧑‍💻 About Me
 - 🌱 Currently learning: **DSA**
 - 💼 Working on: **DSA**
-- 💬 Ask me about: **Web development, JavaScript, React, MERN stack**
+- 💬 Ask me about: **Web development, JavaScript, React, MERN stack, Tailwind**
 - ⚡ Fun fact: I believe **consistency beats intensity**!
 
 ---
